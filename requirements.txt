@@ -1,6 +1,0 @@
-asgiref
-django
-Pillow
-sqlparse
-tzdata
-gunicorn==20.1.0
